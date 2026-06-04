@@ -217,6 +217,10 @@ The project includes SQL-based business analysis such as:
 
 - Department Slicer
 
+### 📊 Dashboard Preview
+
+![HR Analytics Dashboard](Documentation/Dashboard_Screenshot.png)
+
 ---
 
 ## 🚀 Business Recommendations
